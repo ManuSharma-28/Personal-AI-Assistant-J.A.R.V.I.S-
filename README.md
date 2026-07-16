@@ -1,5 +1,4 @@
 
-# 🤖 Jarvis – Personal AI Desktop Assistant
 # 🤖 Desktop AI-based Virtual Assistant (Jarvis) using Speech Recognition
 
 Jarvis is a Python-based personal AI desktop assistant designed to automate daily tasks, respond to voice commands, and improve productivity through intelligent system interaction.
